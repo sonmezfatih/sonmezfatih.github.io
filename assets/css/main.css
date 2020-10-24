@@ -2081,7 +2081,7 @@ section, summary, time, mark, audio, video {
 			padding: 0 2rem;
 			text-align: center;
 			text-decoration: none;
-			text-transform: uppercase;
+			/*text-transform: uppercase;*/
 			white-space: nowrap;
 		}
 
@@ -2312,7 +2312,7 @@ section, summary, time, mark, audio, video {
 			line-height: 1.5;
 			letter-spacing: 0.075em;
 			font-size: 0.8rem;
-			text-transform: uppercase;
+			/*text-transform: uppercase;*/
 			margin: 0 0 0.75rem 0;
 		}
 
@@ -3128,7 +3128,7 @@ section, summary, time, mark, audio, video {
 			position: relative;
 			text-align: center;
 			text-decoration: none;
-			text-transform: uppercase;
+			/*text-transform: uppercase;*/
 		}
 
 		.pagination .next, .pagination .previous {
